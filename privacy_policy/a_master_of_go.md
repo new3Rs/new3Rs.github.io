@@ -43,7 +43,7 @@ Note: The below are machine-translated versions of Privacy Policy.
 ---
 ## 개인 정보 정책
 
-나 (Yuji Ichikawa)는 "A Master of Go"앱을 만들었습니다. 이 앱은 귀하에 관한 정보를 수집하지 않습니다.
+나 (Yuji Ichikawa)는 "바둑의 스승"앱을 만들었습니다. 이 앱은 귀하에 관한 정보를 수집하지 않습니다.
 
 ** 개인 정보 보호 정책 변경 **
 
