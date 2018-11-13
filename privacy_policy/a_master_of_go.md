@@ -12,6 +12,7 @@ I may update our Privacy Policy when I release a new version of this app. Thus, 
 
 If you have any questions or suggestions about Privacy Policy of this app, do not hesitate to contact [me](mailto:new.three.rs@gmail.com).
 
+---
 ## 個人情報保護方針
 
 私、市川雄二がアプリ「囲碁の師匠」を作りました。 このアプリはあなたに関する情報を収集しません。
@@ -24,10 +25,10 @@ If you have any questions or suggestions about Privacy Policy of this app, do no
 
 プライバシーポリシーに関するご質問やご意見がございましたら、お気軽に[私](mailto：new.three.rs@gmail.com)までご連絡ください。
 
+---
+Note: The below are machine-translated versions of Privacy Policy.
 
-Note: The Below is machine-translated versions of Privacy Policy.
-
-##隐私政策
+## 隐私政策
 
 我（市川雄二）建立了“囲棋老师”应用程序。 此应用程序不会收集有关您的任何信息。
 
@@ -39,6 +40,7 @@ Note: The Below is machine-translated versions of Privacy Policy.
 
 如果您对我的隐私政策有任何问题或建议，请随时与[我](mailto：new.three.rs@gmail.com)联系。
 
+---
 ## 개인 정보 정책
 
 나 (Yuji Ichikawa)는 "A Master of Go"앱을 만들었습니다. 이 앱은 귀하에 관한 정보를 수집하지 않습니다.
